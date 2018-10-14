@@ -1,0 +1,3 @@
+yujun 识别不出来 448，449，450，451， 参数tolerance=0.4
+jordan 识别不出来					  参数tolerance=0.4
+liqiwei 识别不出来 141以前  ,143,  
